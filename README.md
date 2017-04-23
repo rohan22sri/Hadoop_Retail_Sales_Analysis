@@ -5,7 +5,7 @@ This dataset is used to demonstrate an end-to-end retail analytic use case on th
 SQL on Hadoop using Hive
 Analytics and visualization using Hive/SparkSQL/Tableau
 
-![Alt text]("https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/architecture.png")
+![Screenshot]("https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/architecture.png")
 
 
 
