@@ -6,7 +6,7 @@ Project6: Retail Sales Analytics
 From command line pig –f /home/cloudera/Desktop/pig_proj6.pig
 3 . output :
  
-./media/image4.png
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/Untitled.png)
 	
 Creating hive table corresponding to pig file containing Revenue Aggregate By Country .
  
