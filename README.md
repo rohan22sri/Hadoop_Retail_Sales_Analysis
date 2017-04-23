@@ -9,6 +9,8 @@ Project6: Retail Sales Analytics
 
 
 1. saving table at appropriate HDFS location –
+http://s3.amazonaws.com/hw-sandbox/tutorial14/SensorFiles.zip
+
 
 
 
