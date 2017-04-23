@@ -13,7 +13,7 @@ the Hadoop Data Platform distribution:
 
 -   Analytics and visualization using Hive/SparkSQL/Tableau
 
-![ScreenShot](https://github.com/rohan22sri/Hadoop\_Retail\_Sales\_Analysis/blob/master/architecture.png)
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/architecture.png)
 
 Data set: The original Online Retail data set is available to download on the
 [UCI Machine Learning Repository]
