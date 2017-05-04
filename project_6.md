@@ -43,9 +43,9 @@ Country .
 ‘RetailSalesClean’ and which was further saved at location
 /user/cloudera/project\_6
 
-![](media/27c068cb5116eb2fe8ae714cdb8f4e5d.png)
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image11.png)
 
-![](media/5d54d5fc43cd44735db93bf15d2a2b50.png)
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image12.png)
 
 Ques :Sales Metrics like NumCustomers, NumTransactions, AvgNumItems,
 MinAmtperCustomer, MaxAmtperCustomer, AvgAmtperCustomer, StdDevAmtperCustomer
@@ -57,11 +57,11 @@ Hive –f /user/cloudera/Desktop/untitled/hive\_analysis\_1.hql
 
 Output :
 
-![](media/befcf1525d96f1fc7045c3e4287bc3f3.png)
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image13.bmp)
 
 Analysis :
 
-![](media/24fa364d88622698b349ac54e71f8da7.png)
+!![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image14.png)
 
 Ques 3 :Daily Sales Activity like NumVisits, TotalAmt etc… per POSIX day of the
 year
