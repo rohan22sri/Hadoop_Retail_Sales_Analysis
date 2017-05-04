@@ -8,7 +8,8 @@ Project6: Retail Sales Analytics
 
 From command line pig –f /home/cloudera/Desktop/pig\_proj6.pig
 
-![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image2.bmp)
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image2.bmp)  
+https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/pig_proj6.pig
 
 
 | 3 . output : |
