@@ -55,30 +55,30 @@ In command promt :
 
 Hive –f /user/cloudera/Desktop/untitled/hive\_analysis\_1.hql
 
+https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/hive_analysis_1.hql
+
 Output :
 
 ![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image13.bmp)
 
 Analysis :
 
-!![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image14.png)
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image14.png)
 
 Ques 3 :Daily Sales Activity like NumVisits, TotalAmt etc… per POSIX day of the
 year
 
-![](media/ff2004cc2d0ab020cc374b7a6baa97e9.png)
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image15.png)
 
-![](media/c69766a0b7e291d2fe0a59f651219197.png)
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image16.png)
 
-![](media/ef9be7f1cd846d1c19d723ae110097b4.png)
+!![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image17.png)
 
-![](media/bf6f17d72af21fc77e91149ff87ee756.png)
-
-![](media/2d040db14db9188f1dfa83382deb00bf.png)
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image18.png)
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image19.png)
 
 We see that most number of visits is on 05-12-2011
-
-![](media/cec4acf83234fe7b091a84f33c4a17f8.png)
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image20.png)
 
 Max revenue generated on 14-11-2011 .
 
