@@ -2,11 +2,14 @@ Project6: Retail Sales Analytics
 
 1. saving table at appropriate HDFS location –
 
-![](media/e8297bea477576106f27aae5d90a36ee.png)
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image1.png)
 
 2 . Revenue Aggregate By Country for top 10 countries
 
 From command line pig –f /home/cloudera/Desktop/pig\_proj6.pig
+
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image2.png)
+
 
 | 3 . output : |
 |--------------|
