@@ -15,17 +15,17 @@ From command line pig –f /home/cloudera/Desktop/pig\_proj6.pig
 |--------------|
 
 
-https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image3.png)
+![ScreenShot]https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image3.png)
  
 
-https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image4.png)
+![ScreenShot]https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image4.png)
 
 Creating hive table corresponding to pig file containing Revenue Aggregate By
 Country .
 
-https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image5.png)
+![ScreenShot]https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image5.png)
 
-https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image6.png)
+![ScreenShot]https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image6.png)
 
 4 . Integration with excel 2013 and showing BI report
 
