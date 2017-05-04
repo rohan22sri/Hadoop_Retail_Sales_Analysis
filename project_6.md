@@ -32,13 +32,12 @@ Country .
 
 (process of integration with excel 2013 has been explained in project 1)
 
-![](media/f7295e3fc170d8e92ce5a61e3a14c93e.png)
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image7.png)
 
-![](media/731bb689ce227bf689b198010d8154f3.png)
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image8.png)
 
-![](media/9b4c88dfba57a82d53ff7e95fd0d6edd.png)
-
-![](media/5531f60eda155219f824a313af4c351d.png)
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image9.png)
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image10.png)
 
 5 . Creating a hive table corresponding to previous pig cleaned data
 ‘RetailSalesClean’ and which was further saved at location
