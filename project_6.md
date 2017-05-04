@@ -8,27 +8,24 @@ Project6: Retail Sales Analytics
 
 From command line pig –f /home/cloudera/Desktop/pig\_proj6.pig
 
-![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image2.png)
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image2.bmp)
 
 
 | 3 . output : |
 |--------------|
 
 
-![](media/cbe880caf0602563c76f9344cf35d6ae.png)
-
+https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image3.png)
  
 
-|                                          |   |   |
-|------------------------------------------|---|---|
-| [./media/image4.png](./media/image4.png) |   |   |
+https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image4.png)
 
 Creating hive table corresponding to pig file containing Revenue Aggregate By
 Country .
 
-![](media/b7d9352226744ac981b95e043922fb7a.png)
+https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image5.png)
 
-![](media/a10918cb39248cb11d50317d49538ca8.png)
+https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image6.png)
 
 4 . Integration with excel 2013 and showing BI report
 
