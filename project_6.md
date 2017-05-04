@@ -83,12 +83,11 @@ We see that most number of visits is on 05-12-2011
 Max revenue generated on 14-11-2011 .
 
 Ques 4 . Hourly sales Activity like NumVisits, TotalAmt etc… per hour of day
-
-![](media/101a651f190bfbd1fc301ba219a5e186.png)
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image21.png)
 
 Analysis :
 
-![](media/44c741291f365a3f250682f1f9d10f3d.png)
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image22.png)
 
 ![](media/062dd42289968ad7ba58589e252e6ae0.png)
 
