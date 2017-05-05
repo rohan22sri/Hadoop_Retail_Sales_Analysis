@@ -168,6 +168,7 @@ From command promt :
 
 Pig –f /home/cloudera/Desktop/untitled/marketbasket.pig
 
+
 ![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image40.bmp)
 
 Output :
