@@ -80,29 +80,32 @@ year
 
 ![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image20.png)
 
-
 We see that most number of visits is on 05-12-2011
 
 
+
 ![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image21.png)
+
 Max revenue generated on 14-11-2011 .
 
 
 
 Ques 4 . Hourly sales Activity like NumVisits, TotalAmt etc… per hour of day
 
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image22.png)
+
 
 Analysis :
 
-![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image22.png)
 
-![](media/062dd42289968ad7ba58589e252e6ae0.png)
 
-![](media/266327e5a77e445b516b64c3c14d5d07.png)
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image23.png)
+
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image24.png)
 
 Hourly sales trend :
 
-![](media/28c97d4cb01bf4f7ad7876670547152a.png)
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image25.png)
 
 Ques 5 : Basket size distribution
 
