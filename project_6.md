@@ -63,15 +63,18 @@ https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screensho
 Output :
 
 
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image14.png)
+
 
 Analysis :
 
-![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image14.png)
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image15.png)
+
+
 
 Ques 3 :Daily Sales Activity like NumVisits, TotalAmt etc… per POSIX day of the
 year
 
-![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image15.png)
 
 ![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image16.png)
 
