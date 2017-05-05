@@ -6,7 +6,8 @@ Project6: Retail Sales Analytics
 
 2 . Revenue Aggregate By Country for top 10 countries
 
-From command line pig –f /home/cloudera/Desktop/pig\_proj6.pig
+From terminal in cloudera:
+pig –f /home/cloudera/Desktop/pig\_proj6.pig
 
 ![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image2.bmp)  
 https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/pig_proj6.pig
