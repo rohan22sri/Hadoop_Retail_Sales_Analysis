@@ -127,31 +127,31 @@ single product .
 
 Ques 6 : Top 20 Items sold by frequency
 
-![](media/96869c4f87eec347c01d55dd773b9a9b.png)
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image31.png)
 
 Analysis :
 
-![](media/13e1cdc4df30d771de740e3d4cbee3b0.png)
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image32.png)
 
-![](media/0cab3c8c2b1d127afdafc65973cc694b.png)
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image33.png)
 
-![](media/4fc4b2b69b1ee73237e0069678758e5a.png)
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image34.png)
 
-![](media/be086354173e4711e36409f7bd84c49a.png)
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image35.png)
 
 Hence we see the top 20 item sold by frequency .
 
 Ques 7 . Customer Lifetime Value distribution by intervals of 1000’s
 
-![](media/e6428b01dc661b8b4a2e61cfd30cc15d.png)
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image36.png)
 
-![](media/96f18ebbf769e1990cd801f946f5f042.png)
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image37.png)
 
 Analysis :
 
-![](media/309065ee50659412eb0beb78fc97fd91.png)
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image38.png)
 
-![](media/fb6c8b3084139493b29e1abb2902490a.png)
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image39.png)
 
 Above is the desired result .
 
