@@ -78,17 +78,19 @@ year
 
 ![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image19.png)
 
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image20.png)
+
 
 We see that most number of visits is on 05-12-2011
 
-![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image20.png)
 
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image21.png)
 Max revenue generated on 14-11-2011 .
 
 
 
 Ques 4 . Hourly sales Activity like NumVisits, TotalAmt etc… per hour of day
-![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image21.png)
+
 
 Analysis :
 
