@@ -57,9 +57,12 @@ Hive –f /user/cloudera/Desktop/untitled/hive\_analysis\_1.hql
 
 https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/hive_analysis_1.hql
 
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image13.bmp)
+
+
 Output :
 
-![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image13.bmp)
+
 
 Analysis :
 
