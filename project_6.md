@@ -103,21 +103,24 @@ Analysis :
 
 ![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image24.png)
 
-Hourly sales trend :
-
 ![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image25.png)
 
+Hourly sales trend :
+
+
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image26.png)
 Ques 5 : Basket size distribution
 
-![](media/8588a28608480c3d45f7e554b8d6fd7a.png)
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image27.png)
 
 Analysis:
 
-![](media/269a1b95e8d83109a2d13a81437e617b.png)
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image28.png)
 
-![](media/f4775ae59db19dd4ecd326547eb31cfe.png)
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image29.png)
 
-![](media/cf5c70768ff50ea0b64fee6a35b683e7.png)
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image30.png)
+
 
 Hence we can see the basket size distribution . Most of the customer purchased a
 single product .
