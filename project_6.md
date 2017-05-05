@@ -168,8 +168,9 @@ From command promt :
 
 Pig –f /home/cloudera/Desktop/untitled/marketbasket.pig
 
-Output :
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image40.bmp)
 
-![](media/3539e5ff727812f9f4aec2e90a2e26ee.png)
+Output :
+![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image41.png)
 
 Above file can be readily used for further analysis .
