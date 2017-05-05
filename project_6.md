@@ -167,10 +167,13 @@ analysis using any predictive modeling software like spark MLLib
 From command promt :
 
 Pig –f /home/cloudera/Desktop/untitled/marketbasket.pig
-https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/marketbasket.pig
+
+
 
 
 ![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image40.bmp)
+
+https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/marketbasket.pig
 
 Output :
 ![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image41.png)
