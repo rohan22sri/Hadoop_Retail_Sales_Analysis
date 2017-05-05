@@ -31,7 +31,11 @@ Country .
 
 4 . Integration with excel 2013 and showing BI report
 
-(process of integration with excel 2013 has been explained in project 1)
+(process of integration with excel 2013 has been explained on below link)
+
+https://github.com/rohan22sri/Hadoop/tree/master/cloudera%205.8%20hive%20and%20ms%20excel%20integration
+
+
 
 ![ScreenShot](https://github.com/rohan22sri/Hadoop_Retail_Sales_Analysis/blob/master/screenshot/image7.png)
 
