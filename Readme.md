@@ -20,6 +20,9 @@ Data set: The original Online Retail data set is available to download on the
 
 (https://archive.ics.uci.edu/ml/datasets/Online+Retail).
 
+
+sample data link : https://dl.dropboxusercontent.com/u/335294585/BigData%20Projects/Project-6.zip
+
 It has been converted using Microsoft Excel to a tab delimited file available
 for convenience. The fields in the data as follows.
 
