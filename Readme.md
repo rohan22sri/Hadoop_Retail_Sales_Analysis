@@ -1,8 +1,8 @@
 \# Hadoop\_Retail\_Sales\_Analysis
 
 Overview: The objective of the project to illustrate retail analytics using an
-online retail dataset containing transactions occurring between 01/12/2010 and
-09/12/2011 for a UK-based and registered non-store online retail.
+online retail dataset containing transactions occurring between 01/12/2015 and
+09/12/2015 for a UK-based online retail which was infact my client in previous organisation.
 
 This dataset is used to demonstrate an end-to-end retail analytic use case on
 the Hadoop Data Platform distribution:
@@ -15,10 +15,7 @@ the Hadoop Data Platform distribution:
 
 ![ScreenShot](https://github.com/rohan22sri/Hadoop\_Retail\_Sales\_Analysis/blob/master/architecture.png)
 
-Data set: The original Online Retail data set is available to download on the
-[UCI Machine Learning Repository]
 
-(https://archive.ics.uci.edu/ml/datasets/Online+Retail).
 
 
 sample data link : https://dl.dropboxusercontent.com/u/335294585/BigData%20Projects/Project-6.zip
